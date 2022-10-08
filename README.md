@@ -1,1 +1,1 @@
-# plugin-vtex
+# plugin-qrcode
